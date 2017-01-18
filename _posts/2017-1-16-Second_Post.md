@@ -58,7 +58,7 @@ Taking all of this into account, here are the next steps we took:
 
 Finally, here is the final map of stations we selected: 
 
-![Benson_map image](https://github.com/lorenaparralanda/lorenaparralanda.github.io/blob/master/images/Subway%20map.png)
+![Benson_map image]({{ site.baseurl }}/images/Subway%20map.png "Benson station map")
 
 All of theses tasks, along with presentation prep, were performed in 4 days. Some tasks took more time than expected, especially as we were all getting comfortable with pandas and managing such a large dataset (once or twice a couple of computers did freeze). 
 
