@@ -15,6 +15,6 @@ Once I decided to apply, the process was pretty quick and it goes as follows: Fi
 
 To give you an idea of how quickly things move, I went through the process at the end of November 2016, and I am now part of the Winter 2017 cohort, which started on January 9th. 
 
-I do want to say that I understand that attending a boot camp is only the beginning of a career related to Data Science. However, my hope is that the skills I will learn at the Metis boot camp, coupled with my background, will render me a strong candidate for the future. I have worked and taught myself the basics of Data Science, and I now look forward to taking leap a forward.
+I do want to say that I understand that attending a boot camp is only the beginning of a career related to Data Science. However, my hope is that the skills I will learn at the Metis boot camp, coupled with my background, will render me a strong candidate for the future. I have worked and taught myself the basics of Data Science, and I now look forward to taking a leap forward.
 
 So, that is how I ended up at Metis, starting a Data Science blog. One final thought I wish to add is that I am not a natural writer (English isn’t my first language) and, consequently, not a natural blogger. I’ve never really felt that I had something to say that other people would be interested in reading. However, I do believe one learns the most when taken out of their comfort zone. So bear with me while I find my voice and overthink what I should or should not include. Here we go… 
