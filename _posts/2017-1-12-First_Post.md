@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metis  
+title: Why I Chose Metis 
 ---
 
 I’ve already added a little bit about myself in the ABOUT section of the blog, so for my first entry, I want to talk a bit more about why I joined Metis, and why this blog exists. If anything, this first blog post might be helpful for people thinking about joining Metis or a similar Data Science bootcamp. 
